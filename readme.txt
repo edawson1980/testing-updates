@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Testing Updates ===
 Contributors: (this should be a list of wordpress.org userid's)
 Donate link: https://example.com/
 Tags: comments, spam
@@ -10,3 +10,12 @@ License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
+
+
+== Changelog ==
+
+= 1.1 =
+* Capitalize Chumley
+
+= 1.0 =
+* Initial Release
