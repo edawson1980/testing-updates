@@ -10,7 +10,7 @@
  * Plugin Name: Testing Updates
  * Plugin URI:  https://erinedawson.com
  * Description: just testing something out
- * Version:     1.0.0
+ * Version:     1.1.0
  * Author:      Erin Dawson
  * Author URI:  https://github.com/edawson1980
  * Text Domain:
