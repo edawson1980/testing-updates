@@ -3,7 +3,7 @@ add_action( 'admin_bar_menu', 'dummy_alert', 999 );
 function dummy_alert( $wp_admin_bar ) {
   $args = array(
   'id'    => 'dummy-alert',
-  'title' => 'Step aside, Chumley'
+  'title' => 'Step aside, CHUMLEY'
   );
 
   $wp_admin_bar->add_node( $args );
