@@ -1,0 +1,8 @@
+{
+  "name" : "Testing Updates",
+  "version" : "1.3",
+  "download_url" : "https://github.com/edawson1980/testing-updates/archive/v1.3.zip",
+  "sections" : {
+    "description" : "Plugin description here. You can use HTML."
+  }
+}
