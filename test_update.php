@@ -59,15 +59,7 @@
  //pull in the stuff
  include __DIR__ . '/functions.php';
 
- //Plugin update checker
- $testUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-     'https://github.com/edawson1980/testing-updates',
-     __FILE__, //Full path to the main plugin file or functions.php.
-     'test-updates'
- );
 
- $testUpdateChecker->setBranch('master');
- // $testUpdateChecker->setAuthentication('f6c9d5d85636f2c030a9896d5a38e946da31818f');
 
 
  ?>

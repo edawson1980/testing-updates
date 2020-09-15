@@ -12,8 +12,10 @@ function dummy_alert( $wp_admin_bar ) {
 
 //add updater
 require 'plugin-update-checker/plugin-update-checker.php';
-$myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-	'https://github.com/user-name/repo-name/',
-	__FILE__,
-	'unique-plugin-or-theme-slug'
+$testUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
+    'https://github.com/edawson1980/testing-updates',
+    __FILE__, //Full path to the main plugin file or functions.php.
+    'test-updates'
 );
+
+$testUpdateChecker->setBranch('master');
