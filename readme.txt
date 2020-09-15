@@ -14,6 +14,9 @@ Here is a short description of the plugin.  This should be no more than 150 char
 
 == Changelog ==
 
+= 1.2 =
+* Testing
+
 = 1.1 =
 * Capitalize Chumley
 
