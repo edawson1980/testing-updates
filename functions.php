@@ -15,7 +15,7 @@ require 'plugin-update-checker/plugin-update-checker.php';
 $testUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
     'https://github.com/edawson1980/testing-updates',
     __FILE__, //Full path to the main plugin file or functions.php.
-    'test-updates'
+    'test-plugin-updates'
 );
 
 $testUpdateChecker->setBranch('master');
